@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <main>
-    About
-  </main>
+  <header class="header">
+    Header
+  </header>
 </template>
